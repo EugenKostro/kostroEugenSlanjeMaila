@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\bin\Debug\kostroEugenMail.exe.config
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\bin\Debug\kostroEugenMail.exe
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\bin\Debug\kostroEugenMail.pdb
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\obj\Debug\kostroEugenMail.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\obj\Debug\kostroEugenMail.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\obj\Debug\kostroEugenMail.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\obj\Debug\kostroEugenMail.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\obj\Debug\kostroEugenMail.exe
+C:\Users\kostr\source\repos\kostroEugenMail\kostroEugenMail\obj\Debug\kostroEugenMail.pdb
